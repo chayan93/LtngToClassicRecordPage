@@ -7,7 +7,7 @@
     },
     "content_scripts": [{
         "matches": [
-            "https://*.lightning.force.com/*"
+            "https://*.lightning.force.com/lightning/r/*"
         ],
         "js": ["content.js"]
     }],
